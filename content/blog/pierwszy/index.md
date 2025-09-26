@@ -1,16 +1,17 @@
 ---
 title: Wkład nieruchomości do spółki jawnej – czy potrzebny jest akt notarialny?
 
-date: "2015-05-21T22:12:03.284Z"
+date: "2015-05-01T22:12:03.284Z"
 description: "Wkład nieruchomości do spółki jawnej – czy potrzebny jest akt notarialny?
 "
 ---
 
-W praktyce gospodarczej bardzo często zdarza się, że wspólnicy decydują się na wniesienie do spółki jawnej nie tylko gotówki, ale także rzeczy ruchomych czy nieruchomości. Powstaje wówczas pytanie: czy umowa spółki jawnej musi mieć formę aktu notarialnego, skoro jednym z wkładów jest nieruchomość? To zagadnienie budzi wątpliwości, a odpowiedź znajdziemy w zestawieniu przepisów Kodeksu spółek handlowych i Kodeksu cywilnego.
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
-# Forma umowy spółki jawnej a obowiązek określenia wartości wkładów wspólników
+This is my first post on my new fake blog! How exciting!
 
-Zgodnie z art. 23 KSH umowa spółki powinna być zawarta na piśmie pod rygorem nieważności. Jednym z obowiązkowych elementów takiej umowy jest określenie wkładów wnoszonych przez każdego wspólnika i ich wartości. Jednocześnie art. 48 § 1 KSH przewiduje, że w razie wątpliwości uważa się, że wkłady wspólników są równe. Jest to reguła interpretacyjna w odniesieniu do wartości wkładów poszczególnych wspólników względem siebie. Wprawdzie z art. 25 pkt 2 KSH wynika, że umowa spółki powinna określać nie tylko wkłady wnoszone przez każdego wspólnika, lecz także ich wartość, co powinno wykluczać istnienie wątpliwości w tym zakresie. Niemniej w przypadku ich zaistnienia, domniemywa się, że wkłady wspólników są równe.
+I'm sure I'll write a lot more interesting things in the future.
+
+Oh, and here's a great quote from this Wikipedia on
+[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
 
 > A salted duck egg is a Chinese preserved food product made by soaking duck
 > eggs in brine, or packing each egg in damp, salted charcoal. In Asian
