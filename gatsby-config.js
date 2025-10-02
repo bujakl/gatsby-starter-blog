@@ -9,10 +9,10 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `radca prawny Toruń Piotr Kowalski Blog`,
+    title: `Radca Prawny z Torunia - Piotr Kowalski Blog`,
     author: {
       name: `Piotr Kowalski`,
-      summary: `radca prawny z Torunia`,
+      summary: `Radca Prawny z Torunia`,
     },
     description: `Blog Piotr Kowalski - radca prawny z Torunia`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
