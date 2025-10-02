@@ -9,12 +9,12 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Piotr Kowalski Blog`,
+    title: `radca prawny Toruń Piotr Kowalski Blog`,
     author: {
       name: `Piotr Kowalski`,
-      summary: `prawnik z Torunia`,
+      summary: `radca prawny z Torunia`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Blog Piotr Kowalski - radca prawny z Torunia`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `kylemathews`,
@@ -102,7 +102,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Kowalski Starter Blog RSS Feed",
           },
         ],
       },
@@ -110,8 +110,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `Gatsby`,
+        name: `Kowalski Starter Blog`,
+        short_name: `Kowalski`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
@@ -121,5 +121,15 @@ module.exports = {
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
+    {
+      resolve: `gatsby-plugin-intl`,
+      options: {
+        path: `${__dirname}/src/intl`,
+        languages: [`pl`],
+        defaultLanguage: `pl`,
+        redirect: true,
+      },
+    }
+
   ],
 }
